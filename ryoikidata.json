@@ -1,10 +1,7 @@
 {
-  "keys": [
+  "users": [
     {
-      "key": "poke",
-      "numbers": [
-        "6285785313072"      
-      ]
+      "password": "alpiceMelda"
     }
   ]
 }
